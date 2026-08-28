@@ -7,3 +7,4 @@ public class EmailService implements OrderObserver {
         System.out.println("Confirmation email sent to " + order.customerEmail());
     }
 }
+
